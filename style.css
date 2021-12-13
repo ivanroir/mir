@@ -56,10 +56,11 @@ mark {
     background: rgba(255, 255, 255, 1);
 }
 
-.marketing {
+.overflow-size {
     height: 70vh;
     overflow-y: scroll;
 }
+
 .marketing .col-lg-4 {
     margin-bottom: 1.5rem;
     text-align: center;
